@@ -1,0 +1,3 @@
+useDynLib(trimTrees)
+import(randomForest,mlbench)
+export(cinbag,hitRate,trimTrees)
